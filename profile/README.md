@@ -1,17 +1,5 @@
-MyHome is a opensource home automation control system,but MyHome is not only a software, it include software and hardware and docs.
+# Welcome to MyHome's site on github
 
-in order to help MyHome grow up,
+MyHome is a fully opensource home automation control system,but MyHome is not only a opensource software, it include software and hardware and docs. which aim to help you build a home automation control system by youself easily and somthly.
 
-
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+MyHome support a lots of device and functions, all this things are include in this github site
