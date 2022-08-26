@@ -1,3 +1,8 @@
+MyHome is a opensource home automation control system,but MyHome is not only a software, it include software and hardware and docs.
+
+in order to help MyHome grow up,
+
+
 ## Hi there 👋
 
 <!--
